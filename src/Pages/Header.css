@@ -1,0 +1,16 @@
+.header {
+    /* padding-top:1px; */
+    background-color: #1761A2;
+    height: 70px;
+    
+}
+
+.header h2 {
+    margin-bottom: -1px;
+    color:white;
+}
+
+.header p {
+    font-weight: 800;
+    color:darkblue;
+}
